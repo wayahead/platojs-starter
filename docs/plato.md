@@ -21,6 +21,7 @@ $ vi tsconfig.json
 
 ```sh
 $ npm install -D autoprefixer
+$ npm install -D prettier prettier-plugin-tailwindcss
 $ vi postcss.config.mjs
 vi postcss.config.mjs
 module.exports = {
