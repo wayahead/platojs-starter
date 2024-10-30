@@ -34,7 +34,7 @@ export default function RootLayout({
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
-          themes={['light', 'dark', 'green', 'system'] /** app/global.css */}
+          themes={['light', 'dark', 'green'] /** app/global.css */}
         >
           {children}
         </ThemeProvider>
